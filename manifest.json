@@ -1,0 +1,17 @@
+
+{
+  "name": "Pheng Kinship",
+  "short_name": "PhengKinship",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#e11d48",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3661/3661870.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

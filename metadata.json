@@ -1,0 +1,7 @@
+{
+  "name": "Pheng Kinship",
+  "description": "An elegant Chinese Pheng Kinship title calculator and voice assistant to help you navigate complex family relationships with ease.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
